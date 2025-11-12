@@ -36,9 +36,9 @@ Computer chose: g
 You chose: s
 You lose :)
 
-⭐ Show Your Support
+ Show Your Support
 If you liked this project:
-* 🌟 Star this repo
-* 🍴 Fork it
-* 🧠 Improve it
-Thanks for visiting! 😄
+*  Star this repo
+*  Fork it
+* Improve it
+Thanks for visiting! 
