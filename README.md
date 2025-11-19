@@ -9,7 +9,7 @@ Welcome to the **Snake Water Gun Game**, a fun Python-based command-line game in
 -  **Snake** drinks the water → Snake wins
 -  **Water** douses the gun → Water wins
 -  **Gun** shoots the snake → Gun wins
-- Same choice → It's a tie!
+- Same choice → It's a tie! 
 
 ---
 
