@@ -12,7 +12,7 @@ Welcome to the **Snake Water Gun Game**, a fun Python-based command-line game in
 - Same choice → It's a tie!  
 
 ---
-
+  
 ##  How to Play
 
 1. Make sure Python is installed on your system.  
