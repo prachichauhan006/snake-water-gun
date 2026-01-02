@@ -1,6 +1,6 @@
 #  Snake Water Gun Game 
 
-Welcome to the **Snake Water Gun Game**, a fun Python-based command-line game inspired by the classic *Rock-Paper-Scissors*. Test your luck and logic against the computer in this quick and simple game! 
+Welcome to the **Snake Water Gun Game**, a fun Python-based command-line game inspired by the classic *Rock-Paper-Scissors*. Test your luck and logic against the computer in this quick and simple game!  
 
 ---
  
